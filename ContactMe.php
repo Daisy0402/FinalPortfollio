@@ -55,10 +55,7 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                        expedita aperiam aliquid at.
-                        Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                        mollitia inventore?
+                        N'hésitez pas à me contacter pour plus d'information ou pour éventuel entretiens !  
                       </p>
                       <ul class="list-ico">
                         <li><span class="bi bi-geo-alt"></span>2 Impasse Bernard Bourlier 28240 La Loupe, Eure-et-Loire</li>
