@@ -11,6 +11,8 @@
           <li><a class="nav-link scrollto" href="#about">Qui sui-je ?</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#work">Projets</a></li>
+          <li><a class="nav-link scrollto " href="#work">Compétences</a></li>
+          <li><a class="nav-link scrollto " href="#work">CV</a></li>
           <!--<li><a class="nav-link scrollto " href="#blog">Blog</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>

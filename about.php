@@ -59,7 +59,7 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Je suis Daisy Tacita, étudiante en 2ème année de BTS SIO option SLAM.
+                      Je suis Daisy Tacita, étudiante en 2ème année de BTS SIO option SLAM au Lycéez Fulebert.
                     </p>
                     <p class="lead">
                       Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis

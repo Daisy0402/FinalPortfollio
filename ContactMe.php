@@ -17,17 +17,17 @@
                         <div class="row">
                           <div class="col-md-12 mb-3">
                             <div class="form-group">
-                              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                              <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
                             </div>
                           </div>
                           <div class="col-md-12 mb-3">
                             <div class="form-group">
-                              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                              <input type="email" class="form-control" name="email" id="email" placeholder="Votre adresse mail" required>
                             </div>
                           </div>
                           <div class="col-md-12 mb-3">
                             <div class="form-group">
-                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" required>
                             </div>
                           </div>
                           <div class="col-md-12">
@@ -36,7 +36,7 @@
                             </div>
                           </div>
                           <div class="col-md-12 text-center my-3">
-                            <div class="loading">Loading</div>
+                            <div class="loading">Chargement</div>
                             <div class="error-message"></div>
                             <div class="sent-message">Votre message a bien été envoyé. Merci ! </div>
                           </div>

@@ -14,7 +14,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <!--<div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
@@ -28,7 +28,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div>-->
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
