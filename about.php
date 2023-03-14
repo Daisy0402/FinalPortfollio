@@ -8,7 +8,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="assets/img/MicrosoftTeams-image.png" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
@@ -46,6 +46,10 @@
                     <div class="progress">
                       <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
+                    <span>Python</span> <span class="pull-right">35%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
                     <a href="compétences.php" type="submit" class="btn btn-primary button-rouded">Voir plus</a>
                     
 
@@ -59,15 +63,13 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Je suis Daisy Tacita, étudiante en 2ème année de BTS SIO option SLAM au Lycéez Fulbert.
+                      Je suis Daisy Tacita, étudiante en 2ème année de BTS SIO option SLAM au Lycée Fulbert.
                     </p>
                     <p class="lead">
-                      
+                      Je suis diplômée d'un bac général.
                     </p>
                     <p class="lead">
-                      Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                      Nulla porttitor accumsan
-                      tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+
                     </p>
                   </div>
                 </div>

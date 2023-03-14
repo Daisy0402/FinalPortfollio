@@ -55,7 +55,7 @@
                     </div>
                     <div class="more-info">
                       <p class="lead">
-                        N'hésitez pas à me contacter pour plus d'information ou pour éventuel entretiens !  
+                        N'hésitez pas à me contacter pour plus d'information ou pour un éventuel entretiens !  
                       </p>
                       <ul class="list-ico">
                         <li><span class="bi bi-geo-alt"></span>2 Impasse Bernard Bourlier 28240 La Loupe, Eure-et-Loire</li>

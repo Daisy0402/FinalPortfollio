@@ -13,7 +13,7 @@
   <!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/hero-bg.jpg)">
+  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/fond.webp)">
     <div class="overlay-itro"></div>
     <div class="hero-content display-table">
       <div class="table-cell">
@@ -34,7 +34,7 @@
     <!-- End About Section -->
 
     <!-- ======= Services Section ======= -->
-    <?php include "services.php" ?>
+    <?php //include "services.php" ?>
     <!-- End Services Section -->
 
     <!-- ======= Counter Section ======= -->
