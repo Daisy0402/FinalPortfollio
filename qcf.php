@@ -19,7 +19,7 @@ include "header.php";
     <div class="hero-content display-table">
       <div class="table-cell">
         <div class="container">
-          <h2 class="hero-title mb-4">Snake Game</h2>
+          <h2 class="hero-title mb-4">Interface BackOffice</h2>
         </div>
       </div>
     </div>
@@ -42,7 +42,7 @@ include "header.php";
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/fu_accueil.png" alt="">
+                  <img src="assets/img/tra_insciption.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
@@ -58,17 +58,20 @@ include "header.php";
             <div class="portfolio-info">
               <h3>Informations</h3>
               <ul>
-                <li><strong>Categorie</strong>: Jeu</li>
-                <li><strong>Outils utilisés</strong>:Visual Studio Code</li>
-                <li><strong>Language de programmation</strong>: JAVASCRIPT, HTML</li>
-                <li><strong>Project date</strong>: Novembre 2022</li>
-                
+                <li><strong>Categorie</strong>:Back Office</li>
+                <li><strong>Description</strong>: Interface backoffice pour la gestion des offres d'emploi et de stage de l'entreprise. L'administration peut ajouter, modifier, supprimer des offres.</li>
+                <li><strong>Outils utilisés</strong>:Visual Studio, ASP.net</li>
+                <li><strong>Language de programmation</strong>: C#, HTML</li>
+                <li><strong>Project date</strong>: Janvier 2022</li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li>Dévelopment en js</li>
+                <li>Utilisation d'un framework (asp.net)</li>
+                <li>Dévelopement d'un système d'authentification (générer automatiquement)</li>
+                <li>Rédaction du cahier des charges, cahier de recette, spécification générales et détaillées</li>
+                <li>Conception et analyse du projet (schéma uml, schéma des permissions) </li>
               </ul> 
             </div>
           </div>
