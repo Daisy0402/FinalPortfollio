@@ -59,6 +59,8 @@ include "header.php";
               <h3>Informations</h3>
               <ul>
                 <li><strong>Categorie</strong>:Back Office</li>
+                <li><strong>Lieu de réalisation</strong>: Stage </li>
+
                 <li><strong>Description</strong>: Interface backoffice pour la gestion des offres d'emploi et de stage de l'entreprise. L'administration peut ajouter, modifier, supprimer des offres.</li>
                 <li><strong>Outils utilisés</strong>:Visual Studio, ASP.net</li>
                 <li><strong>Language de programmation</strong>: C#, HTML</li>
@@ -68,10 +70,15 @@ include "header.php";
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li>Utilisation d'un framework (asp.net)</li>
-                <li>Dévelopement d'un système d'authentification (générer automatiquement)</li>
+                <li>Organisation de réunion pour collecter les besoins du client</li>
+                <li>Organisation de réunion pour faire des points projet</li>
                 <li>Rédaction du cahier des charges, cahier de recette, spécification générales et détaillées</li>
-                <li>Conception et analyse du projet (schéma uml, schéma des permissions) </li>
+                <li>Conception et analyse du projet (schéma uml, schéma des habilitations) </li>
+                <li>Analyse des niveau d'habilitation</li>
+                <li>Mise à jour du site web pour qu'il prennes en compte les données en base de données</li>
+                <li>Création d'une base de données</li>
+                <li>Utilisation des méthodes d'analyse de l'entreprise (méthode en V)</li>
+                <li>Réalisation de test du jeu développé par l'entreprise</li>
               </ul> 
             </div>
           </div>

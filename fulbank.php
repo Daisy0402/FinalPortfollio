@@ -59,20 +59,19 @@ include "header.php";
               <h3>Informations</h3>
               <ul>
                 <li><strong>Categorie</strong>: Logiciel de banque</li>
+                <li><strong>Equipe</strong>: Félix Arthur, Camille Perrier, Nicu Stanciu</li>
+                <li><strong>Lieu</strong>: Lycée </li>
                 <li><strong>Outils utilisés</strong>:Visual Studio, Windows Form, Api de cryptomonaie </li>
                 <li><strong>Language de programmation</strong>: C#, SQL</li>
-                <li><strong>Project date</strong>: Septembre 2022 - Mai 2023</li>
-                <li><strong>Project URL</strong>: <!--<a href="#">www.example.com</a></li>-->
+                <li><strong>Date</strong>: Septembre 2022 - Mai 2023</li>
+                <li><strong>Projet URL</strong>: <!--<a href="#">www.example.com</a></li>-->
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li>Développement en POO (Programmation Orientée Objet</li>
-                <li>Développement des fonctionnalités (retirer de l'argent, virement vers un autre compte)</li>
-                <li>Requêtes SQL</li>
-                <li>Rédiger le cahier des charges et la charte graphique</li>
-                
+                <li>Travail en mode Kanban</li>
+                <li>Rédaction et respect du cahier des charges et la charte graphique</li>
             </div>
           </div>
 

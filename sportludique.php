@@ -68,10 +68,10 @@ include "header.php";
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li>Utilisation d'un framework (Symfony)</li>
-                <li>Développement et gérer un interface admin</li>
-                <li>Dévelopement du système d'authentification</li>
-                <li>Création d'un base de données</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
             </div>
           </div>
 
