@@ -68,10 +68,9 @@ include "header.php";
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Travailler avec la méthode Kanban</li>
+                <li>Analyse et mise en place des niveau d'habilitations (utilisateur, admin, responsable des stocks)</li>
+                <li>Analyse des besoins du client (schéma UML)</li>
             </div>
           </div>
 

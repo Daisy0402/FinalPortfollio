@@ -71,7 +71,7 @@ include "header.php";
               <h2>Compétences réalisés</h2>
               <ul>
                 <li>Travail en mode Kanban</li>
-                <li>Rédaction et respect du cahier des charges et la charte graphique</li>
+                <li>Rédaction et respect du cahier des charges et de la charte graphique</li>
             </div>
           </div>
 

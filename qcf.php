@@ -74,7 +74,8 @@ include "header.php";
                 <li>Organisation de réunion pour faire des points projet</li>
                 <li>Rédaction du cahier des charges, cahier de recette, spécification générales et détaillées</li>
                 <li>Conception et analyse du projet (schéma uml, schéma des habilitations) </li>
-                <li>Analyse des niveau d'habilitation</li>
+                <li>Analyse des niveaux d'habilitations</li>
+                <li>Diagramme de séquence</li>
                 <li>Mise à jour du site web pour qu'il prennes en compte les données en base de données</li>
                 <li>Création d'une base de données</li>
                 <li>Utilisation des méthodes d'analyse de l'entreprise (méthode en V)</li>
