@@ -49,6 +49,10 @@ include "header.php";
                   <img src="assets/img/spo_code.PNG" alt="">
                 </div>
 
+                <div class="swiper-slide">
+                  <img src="assets/img/spo_security.PNG" alt="">
+                </div>
+
               </div>
               <div class="swiper-pagination"></div>
             </div>
@@ -68,12 +72,13 @@ include "header.php";
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>Compétences réalisés</h2>
+              <h2>Compétences réalisées</h2>
               <ul>
                 <li>Travailler avec la méthode Kanban</li>
                 <li>Analyse et mise en place des niveau d'habilitations (utilisateur, admin, responsable des stocks)</li>
+                <li>Création des rôles</li>
                 <li>Analyse des besoins du client (cahier des charges)</li>
-                <li>Analyse et conception du projet(schéma UML, création de base de données</li>
+                <li>Analyse et conception du projet(schéma UML, création de base de données)</li>
                 <li>Rédaction d'un fichier README</li>
 
             </div>
