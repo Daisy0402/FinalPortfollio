@@ -38,15 +38,27 @@ include "header.php";
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/fu_ connexion.PNG" alt="">
+                  <img src="assets/img/specGénérale.PNG" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/tra_insciption.png" alt="">
+                  <img src="assets/img/qcf_interfflux.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/fu_code.png" alt="">
+                  <img src="assets/img/qcf_diagrammeSequence.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/QCF_recette.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/recette2.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/qcf_point_projet.png" alt="">
                 </div>
 
               </div>
@@ -79,7 +91,8 @@ include "header.php";
                 <li>Mise à jour du site web pour qu'il prennes en compte les données en base de données</li>
                 <li>Création d'une base de données</li>
                 <li>Utilisation des méthodes d'analyse de l'entreprise (méthode en V)</li>
-                <li>Réalisation de test du jeu développé par l'entreprise</li>
+                <li>Réalisation de tests du jeu développé par l'entreprise</li>
+                <li>Réalisation de tests fonctionnels du projet BackOffice</li>
               </ul> 
             </div>
           </div>

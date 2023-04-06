@@ -48,6 +48,26 @@ include "header.php";
                 <div class="swiper-slide">
                   <img src="assets/img/fu_code.png" alt="">
                 </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/kanban.png" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/kanban_graphique.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/cdc_1.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/cdc2.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/Cdc3.png" alt="">
+                </div>
+
+                
 
               </div>
               <div class="swiper-pagination"></div>
@@ -58,8 +78,8 @@ include "header.php";
             <div class="portfolio-info">
               <h3>Informations</h3>
               <ul>
-                <li><strong>Categorie</strong>: Logiciel de banque</li>
-                <li><strong>Equipe</strong>: Félix Arthur, Camille Perrier, Nicu Stanciu</li>
+                <li><strong>Catégorie</strong>: Logiciel de banque</li>
+                <li><strong>Equipe</strong>: Félix Arthur, Camille Perrier, Nicu Stanciu, Daisy Tacita</li>
                 <li><strong>Lieu</strong>: Lycée </li>
                 <li><strong>Outils utilisés</strong>:Visual Studio, Windows Form, Api de cryptomonaie </li>
                 <li><strong>Language de programmation</strong>: C#, SQL</li>
@@ -72,6 +92,7 @@ include "header.php";
               <ul>
                 <li>Travail en mode Kanban</li>
                 <li>Rédaction et respect du cahier des charges et de la charte graphique</li>
+                <li>Tests unitaires</li>
             </div>
           </div>
 

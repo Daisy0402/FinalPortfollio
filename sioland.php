@@ -19,7 +19,7 @@ include "header.php";
     <div class="hero-content display-table">
       <div class="table-cell">
         <div class="container">
-          <h2 class="hero-title mb-4">Travel Agency</h2>
+          <h2 class="hero-title mb-4">Fulbank</h2>
         </div>
       </div>
     </div>
@@ -42,12 +42,21 @@ include "header.php";
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/" alt="">
+                  <img src="assets/img/ligne1.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/fu_code.png" alt="">
+                  <img src="assets/img/ligne2.png" alt="">
                 </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/ligne3.png" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/ligne4.png" alt="">
+                </div>
+
+
+                
 
               </div>
               <div class="swiper-pagination"></div>
@@ -58,19 +67,22 @@ include "header.php";
             <div class="portfolio-info">
               <h3>Informations</h3>
               <ul>
-                <li><strong>Catégorie</strong>: Site internet</li>
-                <li><strong>Lieu</strong>: Lycée</li>
-                <li><strong>Equipe</strong>:Nicu Stanciu, Daisy Tacita</li>
-                <li><strong>Outils utilisés</strong>:Visual Studio Code, Bootstrap</li>
-                <li><strong>Language de programmation</strong>: PHP, HTML</li>
-                <li><strong>Date</strong>: Janvier 2022</li>
+                <li><strong>Catégorie</strong>: Jeu </li>
+                <li><strong>Equipe</strong>: Daisy Tacita, Fatih Taskin, Arnaud Lechat, Nicu Stanciu</li>
+                <li><strong>Lieu</strong>: Lycée </li>
+                <li><strong>Outils utilisés</strong>:</li>
+                <li><strong>Language de programmation</strong>: </li>
+                <li><strong>Date</strong>: 2022</li>
+                <li><strong>Projet URL</strong>: <!--<a href="#">www.example.com</a></li>-->
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>Compétences réalisés</h2>
               <ul>
-                <li>Gestion des habilitations (page admin et autorisations d'accès)</li>
-              </ul> 
+                <li>Travail en mode Kanban</li>
+                <li>Rédaction de la ligne éditoriale</li>
+                <li>Création de compte sur les réseaux sociaux (Linkedin, Instagram, Discord ) </li>
+                <li>Publication sur les résaux sociaux</li>
             </div>
           </div>
 

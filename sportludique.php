@@ -59,6 +59,8 @@ include "header.php";
               <h3>Informations</h3>
               <ul>
                 <li><strong>Categorie</strong>: Site e-commerce</li>
+                <li><strong>Lieu</strong>: Lycée</li>
+                <li><strong>Equipe</strong>: Nicu Stanciu, Camille Perrier, Daisy Tacita</li>
                 <li><strong>Outils utilisés</strong>:Visual Studio Code, Symfony, Bootstrap, Sqlite </li>
                 <li><strong>Language de programmation</strong>:PHP, HTML</li>
                 <li><strong>Project date</strong>: Décembre 2022 - Mai 2023</li>
@@ -70,7 +72,10 @@ include "header.php";
               <ul>
                 <li>Travailler avec la méthode Kanban</li>
                 <li>Analyse et mise en place des niveau d'habilitations (utilisateur, admin, responsable des stocks)</li>
-                <li>Analyse des besoins du client (schéma UML)</li>
+                <li>Analyse des besoins du client (cahier des charges)</li>
+                <li>Analyse et conception du projet(schéma UML, création de base de données</li>
+                <li>Rédaction d'un fichier README</li>
+
             </div>
           </div>
 
