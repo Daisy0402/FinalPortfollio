@@ -796,7 +796,7 @@ a:hover {
 }
 
 .hero-single {
-  height: 350px;
+  height: 100px;
 }
 
 .hero-single .hero-content {
@@ -1045,7 +1045,7 @@ a:hover {
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .portfolio-details .portfolio-info ul li+li {
@@ -1499,3 +1499,5 @@ footer .credits a {
   background-color: #460d7c;
   border-color: #460d7c ;
 }
+
+
